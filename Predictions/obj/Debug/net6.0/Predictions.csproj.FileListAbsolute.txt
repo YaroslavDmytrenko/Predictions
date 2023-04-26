@@ -1,0 +1,15 @@
+F:\Vs\Source\Predictions\Predictions\bin\Debug\net6.0\Predictions.exe
+F:\Vs\Source\Predictions\Predictions\bin\Debug\net6.0\Predictions.deps.json
+F:\Vs\Source\Predictions\Predictions\bin\Debug\net6.0\Predictions.runtimeconfig.json
+F:\Vs\Source\Predictions\Predictions\bin\Debug\net6.0\Predictions.dll
+F:\Vs\Source\Predictions\Predictions\bin\Debug\net6.0\Predictions.pdb
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\Predictions.csproj.AssemblyReference.cache
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\Predictions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\Predictions.AssemblyInfoInputs.cache
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\Predictions.AssemblyInfo.cs
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\Predictions.csproj.CoreCompileInputs.cache
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\Predictions.dll
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\refint\Predictions.dll
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\Predictions.pdb
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\Predictions.genruntimeconfig.cache
+F:\Vs\Source\Predictions\Predictions\obj\Debug\net6.0\ref\Predictions.dll
